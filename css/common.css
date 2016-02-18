@@ -1,0 +1,35 @@
+/* Inserta tu codigo que es común para todas las páginas aqui */
+/*TAMANO DE LA LETRA*/
+.fz{
+	font-size: 60px;
+}
+.fz2{
+	font-size: 30px;
+}
+.fz3{
+	font-size: 39px;
+}
+/*COLORES DE LETRA Y GROSOR*/
+.text-bold{
+	font-weight: bold;
+}
+.text-gray2{
+	color: #A4A4A4;
+}
+/*POSICIONES*/
+.top{
+	margin-top: 15px;
+}
+.top2{
+	margin-top: 30px;
+}
+.top3{
+	margin-top: 10%;
+}
+.bottom{
+	position: relative;
+	bottom: 35px;
+}
+.left{
+	margin-left: 100px;
+}
