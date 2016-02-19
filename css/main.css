@@ -1,17 +1,3 @@
-/* ENCABEZADO */
-.lista{
-	display: inline;
-	list-style: none;
-	padding: 40px;
-	font-size: 20px;
-}
-.nodeco {
-	text-decoration: none;
-	color: #A4A4A4;
-}
-a:hover {
-	color: #000052;
-}
 /*IMAGEN CON TEXTO Y BOTON*/
 #bailarines{
 	background-image: url("../img/dance_1.jpg");
@@ -83,5 +69,5 @@ a:hover {
 .azul{
 	background-color: #162252;
 	width: 100%;
-	height: 400px; 
+	height: 500px; 
 }

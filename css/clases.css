@@ -1,1 +1,24 @@
-/* Inserta tu codigo aqui */
+/* FONDO GRIS Y IMAGENES*/
+.tama{
+	height: 1050px;
+}
+#clases img{
+	width: 150%;
+}
+.clas{
+	height: 410px;
+	overflow: hidden;
+}
+.clas2{
+	height: 390px;
+	overflow: hidden;
+}
+.co-1{
+	background-color: black;
+	opacity: 0.5;
+	width: 130%;
+	padding: 20px 15px;
+	position: relative;
+	bottom: 265px;
+	left: 10%;
+}

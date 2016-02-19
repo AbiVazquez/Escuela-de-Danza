@@ -1,1 +1,31 @@
-/* Inserta tu codigo aqui */
+/* FONDO, CUADROS, TEXTO E IMAGENES */
+.t-g{
+	height: 1000px;
+}
+.blog{
+	width: 111%;
+	margin: 0 0 0 -8px;
+}
+.blog2{
+	width: 155%;
+	overflow: hidden;
+	margin: 0 -5px -15px -15px; 
+}
+.bg-g{
+	background-color: #D8D8D8;
+	height: 215px;
+	padding: 20px 30px;
+}
+.bot-1 {
+	width: 30%;
+	background-color: #0E0B1F;
+	border-radius: 5px;
+	padding: 10px 30px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 15px;
+	margin-bottom: 4px 4px;
+	color: #A4A4A4;
+	position: relative;
+	top: 15px;
+}

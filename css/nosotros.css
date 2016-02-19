@@ -1,1 +1,36 @@
-/* Inserta tu codigo aqui */
+/* IMAGEN*/
+#nosotros {
+	background-image: url("../img/dance_7.jpg");
+	background-size: cover;
+	height: 450px;
+}
+.negro{
+	background-color: black;
+	opacity: 0.5;
+	width: 60%;
+	padding: 50px 20px;
+	position: relative;
+	top: 130px;
+	left: 20%;
+}
+/*IMAGEN DE FONDO Y TEXTO*/
+#cubo{
+	background-image: url("../img/cubes.png"); 
+	height: 330px;
+}
+.ml-6{
+	margin-left: 6%;
+}
+/*IMAGENES Y TEXTO*/
+#profesores img{
+	max-width: 100%;
+}
+.prof{
+	width: 200px;
+	height: 150px;
+	overflow: hidden;
+}
+.if-1{
+	background-image: url("../img/cubes.png");
+	height: 200px;
+}
